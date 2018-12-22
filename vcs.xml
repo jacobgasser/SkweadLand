@@ -6,8 +6,12 @@
           <option name="url" value="https://gitlab.com/Skwead/testes" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Skwead/SkweadLand" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\joaof\Desktop\hex\Aprendizagem\java" />
+    <option name="cloneParentDir" value="C:\Users\joaof\Desktop\SkweadLands" />
   </component>
 </application>
